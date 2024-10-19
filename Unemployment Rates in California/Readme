@@ -1,1 +1,3 @@
-
+Developed an empirical model in Excel to determine Unemployment rates in California.
+Looked at every county dataset from FRED and compiled numbers using R-language and visualized unemployment trends, seasonal patterns, and crises using dynamic plots and statistical tools, providing real-time insights for class project.
+Analyzed California's unemployment rates (1976–2020): Identified key trends and economic crises (e.g., 2008 recession, COVID-19 peak at 16.40%) through statistical analysis, time series decomposition, and visualization. Calculated mean (7.14%) and max (16.40%) rates, revealing cyclical labor market patterns.

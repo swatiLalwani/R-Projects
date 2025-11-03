@@ -1,4 +1,56 @@
-Developed an empirical model in Excel to determine Unemployment rates in California.
-Looked at every county dataset from FRED and compiled numbers using R-language and visualized unemployment trends, seasonal patterns, and crises using dynamic plots and statistical tools, providing real-time insights for class project.
-Analyzed California's unemployment rates (1976–2020): Identified key trends and economic crises (e.g., 2008 recession, COVID-19 peak at 16.40%) through statistical analysis, time series decomposition, and visualization. Calculated mean (7.14%) and max (16.40%) rates, revealing cyclical labor market patterns.
+Unemployment Rates in California (1976–2020)
+
+Objective:
+Analyze unemployment trends across California counties to identify patterns, seasonal effects, and economic crises, providing actionable insights for policymakers, businesses, and analysts.
+
+Key Tasks & Approach
+
+1. Data Collection & Integration
+
+Collected county-level unemployment data from FRED.
+
+Merged and cleaned datasets using R and Excel for analysis.
+
+2. Time Series & Statistical Analysis
+
+Conducted trend analysis, seasonal decomposition, and cyclical pattern identification.
+
+Calculated key metrics:
+
+Mean unemployment: 7.14%
+
+Peak unemployment during COVID-19: 16.4%
+
+Identified economic crises, including the 2008 recession.
+
+3. Visualization & Interactive Dashboard
+
+Created dynamic plots to visualize trends, seasonality, and crisis impacts.
+
+Developed an interactive Shiny app for real-time data exploration: View Shiny App
+
+4. Insights & Impact
+
+Revealed cyclical labor market patterns and key periods of economic stress.
+
+Provided actionable insights for policy decisions, workforce planning, and economic analysis.
+
+Tools & Techniques
+
+Programming & Libraries: R, tidyverse, Shiny
+
+Analytics: Time Series Analysis, Statistical Modeling, Trend & Seasonal Decomposition
+
+Visualization: Dynamic plots, interactive dashboards
+
+Data Handling: Multi-source integration, cleaning, aggregation
+
+Outcome
+
+Delivered interactive insights into 44 years of California unemployment data.
+
+Quantified unemployment peaks and trends during key economic events.
+
+Demonstrated expertise in data analysis, visualization, and interactive reporting, transferable to finance, analytics, and business intelligence roles.
+
 visualization https://slalwani1214.shinyapps.io/my_shiny_app/
